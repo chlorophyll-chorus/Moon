@@ -1,7 +1,7 @@
 # Site
 title:              The Chlorophyll Chorus
-bio:                'chloros phyllon: allowing plants to absorb energy from light' / 'khoros: collective voice on the dramatic action'
-description:        "Roses are Red, Violets are Blue, think about our planet or no more flowers for you"
+bio:                'khoros: a collective voice on the dramatic action'
+description:        "Green talks"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,19 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
