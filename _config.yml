@@ -1,7 +1,8 @@
 # Site
 title:              'Chlorophyll Chorus'
-bio:                'khoros: a collective voice on the dramatic action. data + cinema + a love of all things green'
-description:        "data + cinema + a love of all things green"
+bio:                'khoros: a collective voice on the dramatic action'
+bio2:               'cinema + data + a love of all things green'
+description:        "cinema + data + a love of all things green"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/new_logo_trial.png'
